@@ -2,52 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c243072-1a04-4d80-aef4-f7bb963bc4e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/day4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/A_Single_case2/Single1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/A_Single_case2/Single_case2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/A_Single_case3/DuplicationCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/A_Single_case5/Enumeration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/A_Single_case5/StaticInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/B_FactoryPattern1/CheeExPlant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/B_FactoryPattern1/CheeExplant1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/B_FactoryPattern1/CheeExplant2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/B_FactoryPattern1/CheeExplant3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/B_FactoryPattern1/plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Protorype_Improve1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Protorype_Improve1/ShallowCopyImproveOne/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Protorype_Improve1/ShallowCopyImproveOne/DeepCloneableTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Protorype_Improve1/ShallowCopyImproveOne/DeepProtoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Protorype_Improve1/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/C_Prototype/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/AbstraceHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/CommonHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/HighBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/Hose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/HouseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/D_builder/House/HouseDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_adapter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_adapter/IVoltage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_adapter/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_adapter/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_adapter/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/explain" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/day/class/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/.idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/.idea.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/day1Hello world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/day1Hello world.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/src/The first day of the.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/src/The first day of the.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/IVoltage5V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Voltage220V.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/VoltageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/AbsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/InterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Clent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/FoldedPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/UpRightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Vivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/XiaoMi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/brand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/day4/src/explain" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/production/day4/explain" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/production/day4/explain" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,12 +83,12 @@
     <session id="-118240835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -149,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <state relative-caret-position="27">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -378,16 +355,20 @@
       <workItem from="1586939561882" duration="9000" />
       <workItem from="1587031652307" duration="10000" />
       <workItem from="1587031683509" duration="47000" />
+      <workItem from="1587032431959" duration="15000" />
+      <workItem from="1587185528569" duration="5000" />
+      <workItem from="1587185564972" duration="9000" />
+      <workItem from="1587185593502" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23326000" />
+    <option name="totallyTimeSpent" value="23359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="222" width="1523" height="774" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16062884" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16883117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -644,8 +625,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="27">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>

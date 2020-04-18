@@ -2,72 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528331b-8cf2-4102-be69-8e24e2644c50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3DesignMode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/day3DesignMode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/AirVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/RoadVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/RoadVehicle1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/SingleResponsibility1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/SingleResponsibilty2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/SingleRespronsibilty3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/Vehiccle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/A_Single_Principle_1/WateVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/DD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Intefacel22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Intefacel33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Interfacel1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Interfacel11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Segregation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/B_Segregation/Segregation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/DependecyInversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/DependecyInversion2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/Email.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/Email1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/Irceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/Person1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/C_Inversion/WeiXin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/liskov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/D_liskov/liskov2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Circle1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/GraphicEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/GraphicEditor1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Ocp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Ocp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Rectangle1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Shape1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/out/production/day3DesignMode/E_Ocp/Taiangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/A_Single_Principle_1/SingleResponsibility1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/A_Single_Principle_1/SingleResponsibilty2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/A_Single_Principle_1/SingleRespronsibilty3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/B_Segregation/Segregation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/B_Segregation/Segregation2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/C_Inversion/DependecyInversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/C_Inversion/DependecyInversion2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/D_liskov/liskov.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/D_liskov/liskov2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/E_Ocp1/Ocp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignMode/src/E_Ocp1/Ocp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,13 +54,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1076615073">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nictest/BuffTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2047">
+            <state relative-caret-position="918">
               <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -134,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/nictest/ChannelTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nictest/BilckingTest3_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
+            <state relative-caret-position="513">
               <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -254,29 +202,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="day2Dic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day2Dic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="day2Dic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day2Dic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nictest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -287,7 +229,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586600467151" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day4Designmode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -435,6 +377,7 @@
       <workItem from="1586596600205" duration="10000" />
       <workItem from="1586600387377" duration="101000" />
       <workItem from="1586936383333" duration="56000" />
+      <workItem from="1587032687074" duration="9000" />
     </task>
     <servers />
   </component>
@@ -471,12 +414,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30448000" />
+    <option name="totallyTimeSpent" value="30457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="338" y="39" width="1523" height="973" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12440191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12576897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -564,6 +507,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/nictest/BuffTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nictest/BlockingTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -578,6 +531,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nictest/BilckingTest3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -604,30 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nictest/BilckingTest3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nictest/BuffTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2047">
-          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nictest/ChannelTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

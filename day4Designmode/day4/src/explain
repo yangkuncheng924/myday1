@@ -11,5 +11,13 @@
 但又经常用到的对象、工具类对象、频繁访问数据库或文件的对象(比如数据源、session工厂 等)
 
 1.C_Prototype                   原型设计模式
+
 2.D_builder                     设计者模式
+
 3.E_adapter                     适配器模式
+4.E_ObjectAdaper1               对象适配器模式
+5.E_PortAdpter2                 接口适配器模式
+
+6.F_bridging                    桥接者模式
+
+7.G_decorator                   装饰者模式
