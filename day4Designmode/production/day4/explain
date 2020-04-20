@@ -11,7 +11,6 @@
 但又经常用到的对象、工具类对象、频繁访问数据库或文件的对象(比如数据源、session工厂 等)
 
 1.C_Prototype                   原型设计模式
-
 2.D_builder                     设计者模式
 
 3.E_adapter                     适配器模式
@@ -19,3 +18,24 @@
 5.E_PortAdpter2                 接口适配器模式
 
 6.F_bridging                    桥接者模式
+7.G_decorator                   装饰者模式
+8.H_composite                   组合模式
+9.I_facade                      外观模式
+10.J_flyWeightPattern           享元模式
+
+11.K_agency                     代理模式
+11.K_agency1                    动态代理模式
+12.K_agency2                    Cglib动态代理
+
+12.L_templateMethod             模板方法模式
+12.L_templateMethod1            模板方法模式
+
+13.M_order                      命令模式
+14.N_visitor                    访问者模式
+15.O_iterator                   迭代器模式
+16.P_observer                   观察者模式
+17.Q_
+18.R_
+19.S_
+20.T_
+
