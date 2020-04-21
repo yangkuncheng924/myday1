@@ -33,9 +33,17 @@
 13.M_order                      命令模式
 14.N_visitor                    访问者模式
 15.O_iterator                   迭代器模式
-16.P_observer                   观察者模式
-17.Q_
-18.R_
-19.S_
-20.T_
+
+16.P_observer                   普通模式
+17.P_observer1                  观察者模式
+
+18.Q_memento                    备忘录模式
+18.Q_memento1                   备忘录模式
+
+19.R_iterpreter                 解释器模式
+20.S_responsibilitychain        职责链模式
+21.T_
+22.U_
+23.V_
+24.W_
 

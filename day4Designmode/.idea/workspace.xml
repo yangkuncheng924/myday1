@@ -2,76 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddf0afa-bc66-4228-b007-80bb4ecef80e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day4/src/H_composite/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/H_composite/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/H_composite/Depatrment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/H_composite/OrganizationComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/H_composite/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/Chient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/DVDplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/Popcorn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/I_facade/TheaterLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/J_flyWeightPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/J_flyWeightPattern/ConcreteWebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/J_flyWeightPattern/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/J_flyWeightPattern/WebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/J_flyWeightPattern/WebSiteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency/IteacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency/TeacherDaoProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency1/ITeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency1/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency1/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency2/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/K_agency2/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod/PeanutSoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod/RadBeanSoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod/SoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod1/PeanutSoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod1/PureSoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod1/RadBeanSoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod1/SoyaMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/L_templateMethod1/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/LightReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/RemoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/TVOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/TVOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/TVReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/M_order/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Success.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/N_visitor/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/ComputerCollege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/ComputerCollegeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/Depatment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/InfoColleageIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/InfoCollege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/O_iterator/OutputImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/P_observer/CurrentConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/P_observer/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/src/P_observer/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/BaiduSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/P_observer1/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento1/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento1/GameRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento1/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/Q_memento1/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/AddExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/SubExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/SymbolExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/VarExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/R_iterpreter/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/DepartmentApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/src/S_responsibilitychain/purchaseRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/day4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day4/day4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day4/src/explain" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/explain" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/production/day4/explain" beforeDir="false" afterPath="$PROJECT_DIR$/production/day4/explain" afterDir="false" />
     </list>
@@ -102,14 +61,14 @@
     <session id="-1443225494">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,27 +77,27 @@
           <entry key="class" value="26" />
           <entry key="explain" value="15" />
           <entry key="iml" value="4" />
-          <entry key="java" value="228" />
+          <entry key="java" value="276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="26" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="228" />
+          <entry key="JAVA" value="276" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="explain" value="864" />
-          <entry key="java" value="16958" />
+          <entry key="explain" value="1002" />
+          <entry key="java" value="21712" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16958" />
-          <entry key="PLAIN_TEXT" value="864" />
+          <entry key="JAVA" value="21712" />
+          <entry key="PLAIN_TEXT" value="1002" />
         </counts>
       </usages-collector>
     </session>
@@ -150,50 +109,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day4/src/explain">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="272">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/src/P_observer/CurrentConditions.java">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/purchaseRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/src/P_observer/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="59">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day4/src/P_observer/client.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/Approver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/DepartmentApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -216,36 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day4/src/J_flyWeightPattern/User.java" />
-        <option value="$PROJECT_DIR$/day4/src/J_flyWeightPattern/Client.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency/IteacherDao.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency/TeacherDao.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency/TeacherDaoProxy.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency/Client.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency1/ITeacherDao.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency1/TeacherDao.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency1/Client.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency1/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency2/TeacherDao.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency2/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/day4/src/K_agency2/Client.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod/SoyaMilk.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod/RadBeanSoyaMilk.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod/PeanutSoyaMilk.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod/client.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod1/PureSoyaMilk.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod1/client.java" />
-        <option value="$PROJECT_DIR$/day4/src/L_templateMethod1/SoyaMilk.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/Command.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/LightReceiver.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/NoCommand.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/RemoteController.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/TVReceiver.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/TVOnCommand.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/TVOffCommand.java" />
-        <option value="$PROJECT_DIR$/day4/src/M_order/client.java" />
         <option value="$PROJECT_DIR$/day4/src/N_visitor/Action.java" />
         <option value="$PROJECT_DIR$/day4/src/N_visitor/Success.java" />
         <option value="$PROJECT_DIR$/day4/src/N_visitor/Fail.java" />
@@ -263,10 +245,40 @@
         <option value="$PROJECT_DIR$/day4/src/O_iterator/InfoCollege.java" />
         <option value="$PROJECT_DIR$/day4/src/O_iterator/OutputImpl.java" />
         <option value="$PROJECT_DIR$/day4/src/O_iterator/Client.java" />
-        <option value="$PROJECT_DIR$/day4/src/explain" />
         <option value="$PROJECT_DIR$/day4/src/P_observer/CurrentConditions.java" />
         <option value="$PROJECT_DIR$/day4/src/P_observer/WeatherData.java" />
         <option value="$PROJECT_DIR$/day4/src/P_observer/client.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/Observer.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/Subject.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/WeatherData.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/BaiduSite.java" />
+        <option value="$PROJECT_DIR$/day4/src/P_observer1/client.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_mediator/Colleague.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_mediator/Alarm.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento/Memento.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento/Caretaker.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento/Originator.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento/client.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento1/Memento.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento1/Caretaker.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento1/GameRole.java" />
+        <option value="$PROJECT_DIR$/day4/src/Q_memento1/client.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/Expression.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/SymbolExpression.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/AddExpression.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/SubExpression.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/Calculator.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/VarExpression.java" />
+        <option value="$PROJECT_DIR$/day4/src/R_iterpreter/client.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/purchaseRequest.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/Approver.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/DepartmentApprover.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java" />
+        <option value="$PROJECT_DIR$/day4/src/S_responsibilitychain/Client.java" />
+        <option value="$PROJECT_DIR$/day4/src/explain" />
       </list>
     </option>
   </component>
@@ -282,11 +294,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="244" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-80" />
+    <option name="y" value="216" />
     <option name="width" value="1524" />
-    <option name="height" value="769" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -296,6 +308,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day4Designmode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="day4" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,17 +334,6 @@
               <item name="day4Designmode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
               <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="day4Designmode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="day4" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -343,7 +355,7 @@
               <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="P_observer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="S_responsibilitychain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -354,7 +366,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587383057601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587461883065" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -381,6 +393,7 @@
       <recent name="C:\JAVAIDEA\day4Designmode\day4\src\a" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="P_observer1" />
       <recent name="C_Prototype.Protorype_Improve1.ShallowCopyImproveOne" />
       <recent name="C_Prototype.Protorype_Improve1" />
     </key>
@@ -413,13 +426,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.client (4)">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_iterator.Client" />
+      <option name="MAIN_CLASS_NAME" value="S_responsibilitychain.Client" />
       <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_iterator.*" />
+          <option name="PATTERN" value="S_responsibilitychain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,11 +441,11 @@
       </method>
     </configuration>
     <configuration name="client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L_templateMethod1.client" />
+      <option name="MAIN_CLASS_NAME" value="Q_memento.client" />
       <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L_templateMethod1.*" />
+          <option name="PATTERN" value="Q_memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,11 +454,11 @@
       </method>
     </configuration>
     <configuration name="client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="M_order.client" />
+      <option name="MAIN_CLASS_NAME" value="Q_memento1.client" />
       <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="M_order.*" />
+          <option name="PATTERN" value="Q_memento1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,11 +467,11 @@
       </method>
     </configuration>
     <configuration name="client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="N_visitor.client" />
+      <option name="MAIN_CLASS_NAME" value="R_iterpreter.client" />
       <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="N_visitor.*" />
+          <option name="PATTERN" value="R_iterpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,12 +479,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P_observer.client" />
+    <configuration name="client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="R_iterpreter.client" />
       <module name="day4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P_observer.*" />
+          <option name="PATTERN" value="R_iterpreter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -483,14 +496,14 @@
       <item itemvalue="Application.client (1)" />
       <item itemvalue="Application.client (2)" />
       <item itemvalue="Application.client (3)" />
+      <item itemvalue="Application.client (5)" />
       <item itemvalue="Application.Client" />
-      <item itemvalue="Application.client (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.client (4)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.client (3)" />
+        <item itemvalue="Application.client (5)" />
         <item itemvalue="Application.client (2)" />
         <item itemvalue="Application.client (1)" />
       </list>
@@ -521,18 +534,28 @@
       <workItem from="1587185534961" duration="29000" />
       <workItem from="1587185599213" duration="9226000" />
       <workItem from="1587263470407" duration="26656000" />
-      <workItem from="1587376450109" duration="5871000" />
+      <workItem from="1587376450109" duration="12539000" />
+      <workItem from="1587432418454" duration="14797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86587000" />
+    <option name="totallyTimeSpent" value="108052000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="304" y="228" width="1524" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12686567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16393442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -541,18 +564,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.16509435" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16331096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.086129755" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.06271777" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49931693" weight="0.18456376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" order="9" weight="0.0" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986339" weight="0.3277512" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50136614" side_tool="true" weight="0.70574164" />
+      <window_info anchor="bottom" id="Statistic" order="9" sideWeight="0.4989339" weight="0.32997763" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Tail" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.074324325" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.4161074" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -641,6 +664,14 @@
           </properties>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day4/src/Q_memento1/client.java</url>
+          <line>7</line>
+          <properties class="Q_memento1.client">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -649,318 +680,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1944">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency1/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency1/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/day4.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency1/ITeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java_jar xiazai/cglib-2.1.95.jar!/net/sf/cglib/core/TypeUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="164" selection-start-line="164" selection-end-line="164" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency2/TeacherDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java_jar xiazai/cglib-2.1.95.jar!/net/sf/cglib/proxy/Enhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="799" selection-start-line="799" selection-end-line="799" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java_jar xiazai/cglib-2.1.95.jar!/net/sf/cglib/core/AbstractClassGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="204" selection-start-line="204" selection-end-line="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency2/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/K_agency2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod/PeanutSoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod/RadBeanSoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod/SoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod1/PeanutSoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod1/PureSoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod1/RadBeanSoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod1/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/L_templateMethod1/SoyaMilk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/TVOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/TVReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/TVOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/RemoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/LightReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/M_order/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Fail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Success.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Wait.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/ObjectStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/N_visitor/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day4/src/O_iterator/Depatment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -968,10 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,11 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12">
           <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1045,43 +759,436 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/explain">
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer/client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/P_observer/CurrentConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="351">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/src/P_observer/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="624">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="166" column="27" lean-forward="true" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="27" />
           <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#5455#5456#0" expanded="true" />
+            <element signature="e#5512#5513#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day4/src/P_observer/client.java">
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/BaiduSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/P_observer1/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_mediator.java" />
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_mediator/Colleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_mediator/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="423" column="13" selection-start-line="423" selection-start-column="13" selection-end-line="423" selection-end-column="13" />
+          <folding>
+            <element signature="e#9411#9412#0" expanded="true" />
+            <element signature="e#9438#9439#0" expanded="true" />
+            <element signature="e#10089#10090#0" expanded="true" />
+            <element signature="e#10127#10128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento/Caretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#170#179#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1/Games.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1/Caretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1/GameRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/Q_memento1/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="554" column="13" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="213" column="25" selection-start-line="213" selection-start-column="25" selection-end-line="213" selection-end-column="25" />
+          <folding>
+            <element signature="e#144659#144660#0" expanded="true" />
+            <element signature="e#144716#144717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/AddExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/SymbolExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/VarExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/SubExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
+          <folding>
+            <element signature="e#3008#3009#0" expanded="true" />
+            <element signature="e#3055#3056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/R_iterpreter/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/purchaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/DepartmentApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/Approver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/src/explain">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
         </state>
       </provider>
     </entry>
