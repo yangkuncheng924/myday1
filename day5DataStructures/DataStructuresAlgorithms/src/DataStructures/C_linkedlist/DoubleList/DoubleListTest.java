@@ -1,4 +1,5 @@
-package C_linkedlist.DoubleList;
+package DataStructuresAlgorithms.src.DataStructures.C_linkedlist.DoubleList;
+
 /**
  * @City
  * @City

@@ -2,10 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e07423d-5ccf-4ee2-b2c2-f2ed1e74c935" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/A_sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/Sketch" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/Sketch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/CircleArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/A_sparseArray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/ADoublelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/DoubleListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/HeroNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/CircleSingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Josepfu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/SingleLinkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/Sketch" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +71,9 @@
     <session id="-710827194">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -77,8 +101,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="267" />
+    <option name="x" value="304" />
+    <option name="y" value="242" />
     <option name="width" value="1625" />
     <option name="height" value="862" />
   </component>
@@ -88,24 +112,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="day1Hello world" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day1Hello world" type="462c0819:PsiDirectoryNode" />
+              <item name="day1Hello_world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day1Hello_world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="day1Hello world" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day1Hello world" type="462c0819:PsiDirectoryNode" />
+              <item name="day1Hello_world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day1Hello_world" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day1Hello_world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day1Hello_world" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,16 +174,17 @@
       <updated>1586936720117</updated>
       <workItem from="1586936721248" duration="254000" />
       <workItem from="1587032672078" duration="14000" />
+      <workItem from="1587713209151" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268000" />
+    <option name="totallyTimeSpent" value="279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="267" width="1625" height="862" extended-state="0" />
+    <frame x="304" y="242" width="1625" height="862" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25303516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25623003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

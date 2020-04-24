@@ -1,6 +1,4 @@
-package A_sparseArray;
-
-import java.io.InputStream;
+package DataStructuresAlgorithms.src.DataStructures.A_sparseArray;
 
 /**
  * @City

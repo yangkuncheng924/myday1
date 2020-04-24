@@ -1,4 +1,4 @@
-package B_queue;
+package DataStructuresAlgorithms.src.DataStructures.B_queue;
 
 import javax.swing.*;
 import java.util.Scanner;

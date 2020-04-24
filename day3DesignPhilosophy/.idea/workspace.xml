@@ -2,29 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c243072-1a04-4d80-aef4-f7bb963bc4e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/IVoltage5V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/Voltage220V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_ObjectAdapter1/VoltageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/AbsAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/E_PortAdpter2/InterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Clent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/FoldedPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/UpRightPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/Vivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/XiaoMi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/F_bridging/brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/day4/src/explain" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/day4/src/explain" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/production/day4/explain" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/production/day4/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/A_sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/Sketch" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/Sketch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/CircleArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/A_sparseArray/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/ADoublelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/DoubleListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/HeroNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/CircleSingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Josepfu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/SingleLinkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/Sketch" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,12 +90,12 @@
     <session id="-118240835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,6 +104,16 @@
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2" />
         </counts>
@@ -126,8 +143,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="432">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -155,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/Segregation/Segregation.java" />
         <option value="$PROJECT_DIR$/src/C_Inversion/DependecyInversion.java" />
         <option value="$PROJECT_DIR$/src/C_Inversion/DependecyInversion2.java" />
-        <option value="$PROJECT_DIR$/src/D_liskov/liskov.java" />
         <option value="$PROJECT_DIR$/src/D_liskov/liskov2.java" />
         <option value="$PROJECT_DIR$/src/E_Ocp/Ocp2.java" />
         <option value="$PROJECT_DIR$/src/E_Ocp/Ocp.java" />
@@ -165,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/F_Demeter/Demeter.java" />
         <option value="$PROJECT_DIR$/src/foreworld" />
         <option value="$PROJECT_DIR$/src/AA_foreworld" />
+        <option value="$PROJECT_DIR$/src/D_liskov/liskov.java" />
       </list>
     </option>
   </component>
@@ -204,14 +221,13 @@
               <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
               <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D_liskov" type="462c0819:PsiDirectoryNode" />
+              <item name="B_Segregation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
               <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D_liskov" type="462c0819:PsiDirectoryNode" />
-              <item name="liskov.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
@@ -359,16 +375,17 @@
       <workItem from="1587185528569" duration="5000" />
       <workItem from="1587185564972" duration="9000" />
       <workItem from="1587185593502" duration="4000" />
+      <workItem from="1587713240026" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23359000" />
+    <option name="totallyTimeSpent" value="23378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="222" width="1523" height="774" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16883117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17088175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -625,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="432">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>

@@ -1,11 +1,13 @@
-package C_linkedlist;
+package DataStructuresAlgorithms.src.DataStructures.C_linkedlist;
+
 import java.util.Stack;
 /**
  * @City
  * 单向链表
  * @City
  */
-public class ListTest {
+public class ListTest
+{
     public static void main(String[] args) {
         //进行测试 创建节点
         HeroNode heroNode1 = new HeroNode(1, "张飞", "黑旋风");

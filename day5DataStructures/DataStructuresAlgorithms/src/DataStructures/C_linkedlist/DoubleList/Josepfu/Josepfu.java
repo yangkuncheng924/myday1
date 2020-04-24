@@ -1,4 +1,4 @@
-package C_linkedlist.Josepfu;
+package DataStructuresAlgorithms.src.DataStructures.C_linkedlist.DoubleList.Josepfu;
 
 /**
  * @City
