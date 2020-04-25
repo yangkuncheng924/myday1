@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c243072-1a04-4d80-aef4-f7bb963bc4e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/day4Designmode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4Designmode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/Algorithms/A_bubbling/Bubbling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/Algorithms/AlgorithmsSketch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/A_sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/Sketch" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/Sketch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/ArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/CircleArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/A_sparseArray/SparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/ADoublelist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/DoubleListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/HeroNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/CircleSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Josepfu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/SingleLinkedlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/Sketch" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,22 +64,22 @@
     <session id="-118240835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -131,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AA_foreworld">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -140,11 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="-532">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/E_Ocp1/Ocp2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="835">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -205,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,29 +201,10 @@
               <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="B_Segregation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D_liskov" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day3DesignPhilosophy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day3DesignPhilosophy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="E_Ocp1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -248,7 +213,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586939300626" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day4Designmode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day2Dic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -376,16 +341,17 @@
       <workItem from="1587185564972" duration="9000" />
       <workItem from="1587185593502" duration="4000" />
       <workItem from="1587713240026" duration="19000" />
+      <workItem from="1587788385174" duration="38000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23378000" />
+    <option name="totallyTimeSpent" value="23416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="222" width="1523" height="774" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17088175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17293233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -566,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_Ocp1/Ocp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/E_Ocp1.Ocp">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -633,17 +592,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E_Ocp1/Ocp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AA_foreworld">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D_liskov/liskov.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
