@@ -2,37 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddf0afa-bc66-4228-b007-80bb4ecef80e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day1Hello_world/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2Dic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3DesignPhilosophy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/day4Designmode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day4Designmode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/A_sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructures/src/Sketch" beforeDir="false" afterPath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/Sketch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/ArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/B_queue/CircleArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/C_linkedlist/ListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/A_sparseArray/SparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/ArrayQueue1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/B_queue/CircleArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/ADoublelist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/DoubleListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/DoubleList/HeroNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/CircleSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/Josepfu/Josepfu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/C_linkedlist/SingleLinkedlist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms/production/day5DataStructuresAndAlgorithms/Sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/B_queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/B_queue/CircleArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/DoubleListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/Josepfu/Josepfu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/D_Stack/ArrayStackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/D_Stack/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/D_Stack/PolandNotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/E_recursion/Queue8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/F_HashTable/HashTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/DataStructures/Sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/LookupAlgorithm/A_linearSearch/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/LookupAlgorithm/B_binarySearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/LookupAlgorithm/C_InterpolationSearch/InterpolationSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch/FibonacciSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/LookupAlgorithm/explain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/A_bubbling/Bubbling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/AlgorithmsSketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/B_select/Selectsort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/C_interposition/Interposition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/D_Shell/Shellsort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/E_quicksort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/F_merget/Merget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/SortAlgorithms/G_Cardinal/Cardinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day5DataStructures/DataStructuresAlgorithms/src/explain" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +63,14 @@
     <session id="-1443225494">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="11" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -127,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/day4/src/A_Single_case1/SingletonTest01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,7 +160,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="297">
               <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
               <folding>
                 <element signature="e#146#147#0" expanded="true" />
@@ -171,7 +173,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="297">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
               <folding>
                 <element signature="e#165#166#0" expanded="true" />
@@ -184,7 +186,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="297">
               <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
               <folding>
                 <element signature="e#156#157#0" expanded="true" />
@@ -301,6 +303,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="A_Single_case2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="C_Prototype" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -332,34 +362,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="A_Single_case2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="day4Designmode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="day4" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="C_Prototype" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,7 +372,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day5DataStructures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day5DataStructuresAndAlgorithms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -538,11 +540,12 @@
       <workItem from="1587712668451" duration="64000" />
       <workItem from="1587713019251" duration="18000" />
       <workItem from="1587713260334" duration="20000" />
+      <workItem from="1587972266863" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109566000" />
+    <option name="totallyTimeSpent" value="109571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,7 +559,7 @@
   <component name="ToolWindowManager">
     <frame x="229" y="220" width="1524" height="736" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.17008197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.17213115" />
       <window_info id="Structure" order="1" sideWeight="0.5017422" side_tool="true" weight="0.1659836" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -963,7 +966,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/CollegeApprover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="297">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
@@ -974,7 +977,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/ViceSchoolMasterApprover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="297">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="e#165#166#0" expanded="true" />
@@ -985,7 +988,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day4/src/S_responsibilitychain/SchoolMasterApprover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="297">
           <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
             <element signature="e#156#157#0" expanded="true" />
@@ -1004,7 +1007,7 @@
     <entry file="file://$PROJECT_DIR$/day4/src/A_Single_case1/SingletonTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
