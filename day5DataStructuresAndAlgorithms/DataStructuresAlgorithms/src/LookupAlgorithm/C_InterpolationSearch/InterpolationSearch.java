@@ -1,8 +1,8 @@
-package src.LookupAlgorithm.C_InterpolationSearch;
 
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
+
+
+
 
 /**
  * @parameter

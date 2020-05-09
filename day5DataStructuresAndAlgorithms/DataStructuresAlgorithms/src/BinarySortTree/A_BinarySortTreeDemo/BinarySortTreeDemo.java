@@ -25,6 +25,7 @@ public class BinarySortTreeDemo {
 
         //测试删除子树
         binarySortTree.delNode(7);
+        binarySortTree.delNode(10);
         System.out.println("测试删除子树");
         binarySortTree.infixOrdex();
     }
@@ -180,18 +181,26 @@ class BinarySortTree{
             }else {//删除只有一颗字数的结点
                 //如果要删除的结点有左子结点
                 if(targetNode.left!=null){
-                    //如果targetNode是parent的左子结点
-                    if(parent.left.value==value){
-                    parent.left=targetNode.left;
-                }else {//targetNodesparent的右子结点
-                        parent.right=targetNode.left;
+                    if(parent!=null) {
+                        //如果targetNode是parent的左子结点
+                        if (parent.left.value == value) {
+                            parent.left = targetNode.left;
+                        } else {//targetNodesparent的右子结点
+                            parent.right = targetNode.left;
+                        }
+                    }else {
+                        root=targetNode.left;
                     }
                 }else { //如果要删除的结点有右子结点
-                    //如果targetNode是parent的左子结点
-                    if(parent.left.value==value){
-                        parent.left=targetNode.right;
-                    }else {//如果targetNode是parent的右子结点
-                        parent.right=targetNode.right;
+                    if(parent!=null) {
+                        //如果targetNode是parent的左子结点
+                        if (parent.left.value == value) {
+                            parent.left = targetNode.right;
+                        } else {//如果targetNode是parent的右子结点
+                            parent.right = targetNode.right;
+                        }
+                    }else {
+                        root=targetNode.right;
                     }
                 }
             }

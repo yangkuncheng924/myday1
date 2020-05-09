@@ -1,4 +1,4 @@
-package src.LookupAlgorithm.B_binarySearch;
+package LookupAlgorithm.B_binarySearch;
 
 import java.util.ArrayList;
 import java.util.List;

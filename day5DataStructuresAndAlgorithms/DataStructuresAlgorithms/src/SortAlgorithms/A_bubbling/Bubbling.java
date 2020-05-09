@@ -1,4 +1,6 @@
-package src.SortAlgorithms.A_bubbling;
+package SortAlgorithms.A_bubbling;
+
+
 
 import org.junit.Test;
 
