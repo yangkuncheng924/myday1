@@ -53,4 +53,6 @@ CommonlyUsedAlgorithm   常用各类算法
                     G_PrimsAlgorithm                        普里姆算法
                     H_KruskalAlgorithm                      克鲁斯卡尔算法
                     I_DijkstraAlgorithm                     迪杰斯特拉算法
+                    J_FloydAlgorithm                        弗洛伊德算法
+                    K_MatteBoardAlgorithm                   马踏棋盘算法+贪心算法
 
