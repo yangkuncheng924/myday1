@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- JavaScript中不允许函数重载 会覆盖上次函数 并重新定义-->
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        //无参函数
+        function f() {
+            alert("无参函数被调用")
+        }
+        //函数调用
+        //f();
+
+        //有参函数
+        function f1(a,b) {
+            alert(a+b);
+        }
+        var a=10;
+        // f1(a,"abc");
+
+        //带有返回值的函数
+        function sum(num1,num2) {
+            var result=num1+num2;
+            return result
+        }
+        alert(sum(100,50));
+    </script>
+</head>
+<body>
+
+</body>
+</html>
