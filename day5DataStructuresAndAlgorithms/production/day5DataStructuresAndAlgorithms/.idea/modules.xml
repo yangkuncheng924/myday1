@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/Datastructuresandalgorithms/Datastructuresandalgorithms.iml" filepath="$PROJECT_DIR$/Datastructuresandalgorithms/Datastructuresandalgorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/day5DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/.idea/day5DataStructuresAndAlgorithms.iml" />
-    </modules>
-  </component>
-</project>
