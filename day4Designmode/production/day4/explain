@@ -1,0 +1,49 @@
+设计模式             单例模式
+1.A_Sing1e_case1    恶汉         单例设计模式   推荐使用
+2.A_Single_case2    懒汉         单例设计模式
+3.A_Single_case3    双层检查     单例设计模式   推荐使用
+4.A_Single_case5    静态内部类   单列设计模式   推荐使用
+5.A_Single_case6    枚举         单例设计模式   推荐使用
+
+单例模式注意事项和细节说明：
+1)当想实例化一个单例类的时候，必须要记住使用相应的获取对象的方法，而不是使用new
+2)单例模式使用的场景:需要频繁的进行创建和销毁的对象、创建对象时耗时过多或耗费资源过多(即:重量级对象)，
+但又经常用到的对象、工具类对象、频繁访问数据库或文件的对象(比如数据源、session工厂 等)
+
+1.C_Prototype                   原型设计模式
+2.D_builder                     设计者模式
+
+3.E_adapter                     适配器模式
+4.E_ObjectAdaper1               对象适配器模式
+5.E_PortAdpter2                 接口适配器模式
+
+6.F_bridging                    桥接者模式
+7.G_decorator                   装饰者模式
+8.H_composite                   组合模式
+9.I_facade                      外观模式
+10.J_flyWeightPattern           享元模式
+
+11.K_agency                     代理模式
+11.K_agency1                    动态代理模式
+12.K_agency2                    Cglib动态代理
+
+12.L_templateMethod             模板方法模式
+12.L_templateMethod1            模板方法模式
+
+13.M_order                      命令模式
+14.N_visitor                    访问者模式
+15.O_iterator                   迭代器模式
+
+16.P_observer                   普通模式
+17.P_observer1                  观察者模式
+
+18.Q_memento                    备忘录模式
+18.Q_memento1                   备忘录模式
+
+19.R_iterpreter                 解释器模式
+20.S_responsibilitychain
+21.T_
+22.U_
+23.V_
+24.W_
+

@@ -1,0 +1,29 @@
+算法
+算法的时间复杂度
+1 常熟阶O（1） 无论代码执行了多少行，只要没有循环等复杂结构 那这个代码的时间复杂度就都是O（1）
+2 对数阶O（log2n）
+3 线性阶O（n）
+4 线性对数阶O(nlogN)
+5 平方阶O（n2）
+6 立方阶O（n3）
+7 k次方阶O（nk）
+8 指数阶O（2n）
+
+排序法：      平均时间      最差情形            备注
+冒泡          O（n2）       O（n2）           n小时较好
+交换          O（n2）       O（n2）           n小时较好
+选择          O（n2）       O（n2）           n小时较好
+插入          O（n2）       O（n2）           大部分已排序时较好
+基数          O（log2n）    O（log2n）        B是真数(0-9)R是基数(个十百)
+Shell         O(nlogN)      O（n2）           n大时较好
+快速          0（nlogN）    O（n2）           n大时较好
+归并          O(nlogN)      O(nlogN)          n大时较好
+堆            O(nlogN)      O(nlogN)          n大时较好
+
+A_bubbling                  冒泡排序算法
+B_select                    选择排序算法
+C_interposition             插入排序算法
+D_Shell                     希尔排序算法
+E_quicksort                 快速排序算法
+F_merget                    归并排序算法
+G_Cardinal                  基数排序算法

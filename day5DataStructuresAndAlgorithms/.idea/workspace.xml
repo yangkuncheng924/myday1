@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da7dc7b9-6e44-4aad-942f-71841b7447b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/BinarySortTree/B_BalancedBinaryTree/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/Drawing/A_Drawing/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/Drawing/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/day5DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day5DataStructuresAndAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAlgorithms/src/BinarySortTree/explain" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/BinarySortTree/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/explain" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAlgorithms/src/explain" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAlgorithms/src/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/BinarySortTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/A_BinarySortTreeDemo/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/explain" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/BinarySortTree/explain" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/explain" beforeDir="false" afterPath="$PROJECT_DIR$/production/DataStructuresAlgorithms/src/explain" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="382633595">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="AlgorithmsSketch" value="4" />
+          <entry key="Sketch" value="3" />
+          <entry key="class" value="14" />
+          <entry key="explain" value="6" />
+          <entry key="fxml" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="14" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="88" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="AlgorithmsSketch" value="538" />
+          <entry key="Sketch" value="176" />
+          <entry key="dummy" value="5" />
+          <entry key="explain" value="471" />
+          <entry key="ft" value="55" />
+          <entry key="java" value="31079" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="31079" />
+          <entry key="PLAIN_TEXT" value="1190" />
+          <entry key="VTL" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1894814816">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="explain" value="2" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/explain">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DataStructures/src/A_sparseArray/Input.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/A_sparseArray/SparseArray.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/B_queue/Queue.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/B_queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/B_queue/CircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/singleLinkedList.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/AAAAccc.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/DoubleListTest.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/ListTest.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/DoubleList/DoubleListTest.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/C_linkedlist/Josepfu/Josepfu.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/D_Stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/D_Stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/D_Stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/DataStructures/src/Sketch" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/B_queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/B_queue/CircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/DoubleListTest.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/ListTest.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/Josepfu/Josepfu.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/lk.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/Queue8.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/Algorithms/AlgorithmsSketch" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/Algorithms/A_bubbling/Bubbling.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/B_select/Selectsort.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/C_interposition/Interposition.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/D_Shell/Shellsort.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/E_quicksort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/F_merget/Merget.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/AlgorithmsSketch" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/G_Cardinal/Cardinal.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/A_linearSearch/LinearSearch.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/B_binarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/explain" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch.fxml" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/C_InterpolationSearch/InterpolationSearch.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch/FibonacciSearch.java" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/explain" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/Sketch" />
+        <option value="$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/F_HashTable/HashTable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="227" />
+    <option name="y" value="100" />
+    <option name="width" value="1345" />
+    <option name="height" value="509" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <flattenPackages Scope="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day5DataStructuresAndAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="day5DataStructuresAndAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day5DataStructuresAndAlgorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="day5DataStructuresAndAlgorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DataStructures" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LookupAlgorithm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SortAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="day5DataStructures" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day5DataStructuresAndAlgorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DataStructuresAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SortAlgorithms" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="G_Cardinal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588671164188" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStructuresAlgorithms/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JAVAIDEA\day5DataStructures\DataStructuresAlgorithms\src\abc\adb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HashTable">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayQueue" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAlgorithms.src.LookupAlgorithm.B_binarySearch.BinarySearch" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAlgorithms.src.LookupAlgorithm.B_binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAlgorithms.src.LookupAlgorithm.D_FibonacciSearch.FibonacciSearch" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAlgorithms.src.LookupAlgorithm.D_FibonacciSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAlgorithms.src.DataStructures.F_HashTable.HashTable" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAlgorithms.src.DataStructures.F_HashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_sparseArray.Input" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.A_sparseArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpolationSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAlgorithms.src.LookupAlgorithm.C_InterpolationSearch.InterpolationSearch" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAlgorithms.src.LookupAlgorithm.C_InterpolationSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAlgorithms.src.LookupAlgorithm.A_linearSearch.LinearSearch" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAlgorithms.src.LookupAlgorithm.A_linearSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolandNotation (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.D_Stack.PolandNotation" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.D_Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolandNotation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Stack.PolandNotation" />
+      <module name="day5DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D_Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Input" />
+      <item itemvalue="Application.PolandNotation" />
+      <item itemvalue="Application.PolandNotation (1)" />
+      <item itemvalue="Application.ArrayQueue" />
+      <item itemvalue="Application.LinearSearch" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.InterpolationSearch" />
+      <item itemvalue="Application.FibonacciSearch" />
+      <item itemvalue="Application.HashTable" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashTable" />
+        <item itemvalue="Application.FibonacciSearch" />
+        <item itemvalue="Application.InterpolationSearch" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7dc7b9-6e44-4aad-942f-71841b7447b6" name="Default Changelist" comment="" />
+      <created>1587468017731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587468017731</updated>
+      <workItem from="1587468018813" duration="65000" />
+      <workItem from="1587468102646" duration="9420000" />
+      <workItem from="1587522145028" duration="27629000" />
+      <workItem from="1587609910928" duration="20804000" />
+      <workItem from="1587693058597" duration="6879000" />
+      <workItem from="1587712121760" duration="77000" />
+      <workItem from="1587712214040" duration="83000" />
+      <workItem from="1587712332833" duration="334000" />
+      <workItem from="1587712753604" duration="46000" />
+      <workItem from="1587712834350" duration="184000" />
+      <workItem from="1587713038174" duration="170000" />
+      <workItem from="1587713281763" duration="11173000" />
+      <workItem from="1587780563989" duration="3927000" />
+      <workItem from="1587788451672" duration="26589000" />
+      <workItem from="1587872719029" duration="20737000" />
+      <workItem from="1587972189407" duration="76000" />
+      <workItem from="1587972273210" duration="73000" />
+      <workItem from="1587972363486" duration="173000" />
+      <workItem from="1587972638028" duration="23000" />
+      <workItem from="1588671082753" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Shellsort_test1 - 2020.04.25 at 16h 35m 49s.xml">
+      <configuration name="Shellsort.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shellsort_test1 - 2020.04.25 at 16h 36m 05s.xml">
+      <configuration name="Shellsort.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_test - 2020.04.25 at 17h 25m 05s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_test - 2020.04.25 at 17h 30m 53s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_test - 2020.04.25 at 17h 31m 21s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_test - 2020.04.25 at 17h 31m 42s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_fun - 2020.04.25 at 17h 35m 29s.xml">
+      <configuration name="QuickSort.fun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_fun - 2020.04.25 at 17h 36m 25s.xml">
+      <configuration name="QuickSort.fun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_fun - 2020.04.25 at 17h 36m 52s.xml">
+      <configuration name="QuickSort.fun" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_fun - 2020.04.25 at 17h 37m 13s.xml">
+      <configuration name="QuickSort.fun" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128573000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.029082773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49726775" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.016778523" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26174498" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5027322" side_tool="true" weight="0.98888886" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.32885906" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118336886" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.029082773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49726775" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.016778523" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26174498" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5027322" side_tool="true" weight="0.98888886" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49946696" weight="0.32885906" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/io/InputStream.java</url>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/Queue8.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class</url>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/C_interposition/Interposition.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/D_Shell/Shellsort.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/F_merget/Merget.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/G_Cardinal/Cardinal.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/B_binarySearch/BinarySearch.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/C_linkedlist/ListTest.java</url>
+          <line>8</line>
+          <properties class="C_linkedlist.ListTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java</url>
+          <line>6</line>
+          <properties class="C_linkedlist.DoubleList.DoubleListTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java</url>
+          <line>7</line>
+          <properties class="C_linkedlist.DoubleList.Josepfu.Josepfu">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/D_Stack/Calculator.java</url>
+          <line>10</line>
+          <properties class="D_Stack.Calculator">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch/FibonacciSearch.java</url>
+          <line>12</line>
+          <properties field="maxSize" class="DataStructuresAlgorithms.src.LookupAlgorithm.D_FibonacciSearch.FibonacciSearch" />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/DoubleListTest.java" />
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/C_linkedlist/DoubleList/Josepfu/Josepfu.java" />
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="774" column="22" selection-start-line="774" selection-start-column="22" selection-end-line="774" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/IllegalStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#32615#0" expanded="true" />
+            <element signature="docComment;method#nullInputStream#0;class#InputStream#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="565" column="24" selection-start-line="565" selection-start-column="24" selection-end-line="565" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/D_Stack/ArrayStackDemo.java" />
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/D_Stack/Calculator.java" />
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2044" column="19" selection-start-line="2044" selection-start-column="19" selection-end-line="2044" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/D_Stack/PolandNotation.java" />
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="104" column="6" selection-start-line="104" selection-start-column="6" selection-end-line="104" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/B_queue/CircleArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1674">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/Josepfu/Josepfu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/B_queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/D_Stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/A_sparseArray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/lk.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/Queue8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/E_recursion/MiGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1924">
+          <caret line="125" lean-forward="true" selection-start-line="124" selection-start-column="37" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/A_bubbling/Bubbling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/B_select/Selectsort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/C_interposition/Interposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/D_Shell/Shellsort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="49" column="45" lean-forward="true" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/E_quicksort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/F_merget/Merget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="68" column="52" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch.fxml" />
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/A_linearSearch/LinearSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/C_InterpolationSearch/InterpolationSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/D_FibonacciSearch/FibonacciSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/explain">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-13.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="57" column="58" lean-forward="true" selection-start-line="57" selection-start-column="58" selection-end-line="57" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/DoubleList/DoubleListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="144" column="13" lean-forward="true" selection-start-line="142" selection-start-column="12" selection-end-line="144" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/C_linkedlist/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="315" column="6" selection-start-line="315" selection-start-column="6" selection-end-line="315" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/G_Cardinal/Cardinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/SortAlgorithms/AlgorithmsSketch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/F_HashTable/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/DataStructures/Sketch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/LookupAlgorithm/B_binarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAlgorithms/src/explain">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day5DataStructuresAndAlgorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

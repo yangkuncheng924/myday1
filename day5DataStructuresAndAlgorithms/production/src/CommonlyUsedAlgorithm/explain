@@ -1,0 +1,12 @@
+CommonlyUsedAlgorithm   常用各类算法
+                    A_binarySearch                          二分查找（非递归）
+                    B_bivideAndConquerAlgorithm             分治算法
+                    C_dynamicPlanning                       动态规划
+                    D_violentMatch                          暴力匹配（和KMP算法相比较）不推荐
+                    E_KMPAlgorithm                          KMP字符串匹配算法 推荐
+                    F_greedyAlgorithm                       贪心算法
+                    G_PrimsAlgorithm                        普里姆算法
+                    H_KruskalAlgorithm                      克鲁斯卡尔算法
+                    I_DijkstraAlgorithm                     迪杰斯特拉算法
+                    J_FloydAlgorithm                        弗洛伊德算法
+                    K_MatteBoardAlgorithm                   马踏棋盘算法+贪心算法
