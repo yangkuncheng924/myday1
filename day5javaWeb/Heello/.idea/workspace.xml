@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b4d5df5-683f-4654-a110-d3742572468d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ccpIuLFOwjuiOjNt8rU1ceoUlH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day6.1javaWeb" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWorld.test1">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.HelloWorld" />
+      <module name="Heello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Heello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yang" />
+      <option name="MAIN_CLASS_NAME" value="com.yang.HelloWorld" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorld.test1" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4d5df5-683f-4654-a110-d3742572468d" name="Default Changelist" comment="" />
+      <created>1590837659026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590837659026</updated>
+      <workItem from="1590837660368" duration="327000" />
+      <workItem from="1590838121009" duration="2748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590839311028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590839311028" />
+    <state x="1111" y="365" key="FileChooserDialogImpl" timestamp="1590841392716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1111" y="365" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590841392716" />
+    <state width="1340" height="160" key="GridCell.Tab.0.bottom" timestamp="1590841395674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590841395674" />
+    <state width="1340" height="160" key="GridCell.Tab.0.center" timestamp="1590841395674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590841395674" />
+    <state width="1340" height="160" key="GridCell.Tab.0.left" timestamp="1590841395674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590841395674" />
+    <state width="1340" height="160" key="GridCell.Tab.0.right" timestamp="1590841395674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590841395674" />
+    <state x="832" y="231" width="998" height="759" key="SettingsEditor" timestamp="1590839985267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="231" width="998" height="759" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590839985267" />
+    <state x="650" y="534" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590838643125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="534" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1590838643125" />
+    <state x="439" y="430" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1590838562674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="430" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1920.1040@0.0.1920.1040" timestamp="1590838562674" />
+  </component>
+</project>
