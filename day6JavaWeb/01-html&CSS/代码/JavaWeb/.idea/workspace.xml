@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279f1289-8df4-4e25-b9bf-a21d1e4665d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaWeb" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3Bk4LPEo3WfA9ZB5XJCvDIxhv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_JavaScript" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.splitter.proportion" value="0.34440753" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaWeb\01_html_css" />
+      <recent name="E:\IdeaProjects\JavaWeb" />
+      <recent name="E:\IdeaProjects\JavaWeb\html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaWeb\02_JavaScript" />
+      <recent name="E:\IdeaProjects\JavaWeb\02_JavaScript\document" />
+      <recent name="E:\IdeaProjects\JavaWeb\css" />
+      <recent name="E:\IdeaProjects\JavaWeb\html" />
+      <recent name="E:\IdeaProjects\JavaWeb" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaWeb/01_html_css/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hello.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279f1289-8df4-4e25-b9bf-a21d1e4665d9" name="Default Changelist" comment="" />
+      <created>1578368537614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578368537614</updated>
+      <workItem from="1578368552797" duration="12227000" />
+      <workItem from="1578443801827" duration="77000" />
+      <workItem from="1578443942270" duration="12169000" />
+      <workItem from="1578462170555" duration="9669000" />
+      <workItem from="1578473160494" duration="16000" />
+      <workItem from="1578473339601" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="138" key="FileChooserDialogImpl" timestamp="1578380047656">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="377" y="138" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1578380047655" />
+    <state x="176" y="0" key="SettingsEditor" timestamp="1578473398040">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="176" y="0" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1578473398040" />
+    <state x="406" y="79" width="654" height="452" key="new project wizard" timestamp="1578447866108">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="406" y="79" width="654" height="452" key="new project wizard/0.0.1366.740@0.0.1366.740" timestamp="1578447866108" />
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup" timestamp="1578467916506">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="346" y="61" width="672" height="678" key="search.everywhere.popup/0.0.1366.740@0.0.1366.740" timestamp="1578467916506" />
+  </component>
+</project>

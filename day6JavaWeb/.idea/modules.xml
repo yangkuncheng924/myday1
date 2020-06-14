@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/day6/day6.iml" filepath="$PROJECT_DIR$/day6/day6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/day6JavaWeb.iml" filepath="$PROJECT_DIR$/.idea/day6JavaWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day6Web/day6Web1.iml" filepath="$PROJECT_DIR$/day6Web/day6Web1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day6Web/untitled.iml" filepath="$PROJECT_DIR$/day6Web/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaweb资料.iml" filepath="$PROJECT_DIR$/.idea/javaweb资料.iml" />
     </modules>
   </component>
 </project>
