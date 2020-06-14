@@ -1,4 +1,4 @@
-package priv.yangkuncheng.Spring.basic;
+package priv.yangkuncheng.spring.basic;
 
 public class UserServicempl implements UserService{
     private UserDAO userDAO;

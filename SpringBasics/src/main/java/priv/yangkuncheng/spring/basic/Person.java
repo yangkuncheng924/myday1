@@ -1,4 +1,4 @@
-package priv.yangkuncheng.Spring.basic;
+package priv.yangkuncheng.spring.basic;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package priv.yangkuncheng.Spring.basic.constructer;
+package priv.yangkuncheng.spring.basic.constructer;
 
 import java.io.Serializable;
 

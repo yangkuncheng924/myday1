@@ -9,15 +9,15 @@
     <!--        </property>-->
     <!--    </bean>-->
 
-    <bean id="userDAO" class="priv.yangkuncheng.Spring.basic.UserDAOimp">
+    <bean id="userDAO" class="priv.yangkuncheng.spring.basic.UserDAOimp">
     </bean>
-    <bean id="userService" class="priv.yangkuncheng.Spring.basic.UserServicempl">
+    <bean id="userService" class="priv.yangkuncheng.spring.basic.UserServicempl">
         <property name="userDAO">
             <ref bean="userDAO"></ref>
         </property>
     </bean>
 
-    <bean id="person" class="priv.yangkuncheng.Spring.basic.Person">
+    <bean id="person" class="priv.yangkuncheng.spring.basic.Person">
         <property name="list">
             <list>
                 <value>11111</value>
@@ -29,16 +29,33 @@
     </bean>
 
 
-    <bean id="persona" class="priv.yangkuncheng.Spring.basic.Person" p:name="xiaojianren" p:id="100"/>
+    <bean id="persona" class="priv.yangkuncheng.spring.basic.Person" p:name="xiaojianren" p:id="100"/>
 
 
-    <bean id="customer" class="priv.yangkuncheng.Spring.basic.constructer.Customer">
+    <bean id="customer" class="priv.yangkuncheng.spring.basic.constructer.Customer">
         <constructor-arg name="age">
             <value>20</value>
         </constructor-arg>
-
-<!--        <constructor-arg>-->
-<!--            <value>102</value>-->
-<!--        </constructor-arg>-->
     </bean>
+
+    <!--    <bean id="coon1" class="priv.yangkuncheng.Spring.factorybean.ConnectionFactoryBean"></bean>-->
+
+    <!--    <bean id="coon" class="priv.yangkuncheng.Spring.factorybean.ConnectionFactoryBean">-->
+    <!--        <property name="diverClassName" value="com.mysql.cj.jdbc.Driver"></property>-->
+    <!--        <property name="url" value="jdbc:mysql://localhost:3306/test"></property>-->
+    <!--        <property name="username" value="root"></property>-->
+    <!--        <property name="password" value=""></property>-->
+    <!--    </bean>-->
+
+    <!--    <bean id="connFactory" class="priv.yangkuncheng.Spring.factorybean.ConnectionFactory"></bean>-->
+    <!--    <bean id="coon" factory-bean="connFactory" factory-method="getConnection"/>-->
+
+    <bean id="coon" class="priv.yangkuncheng.spring.factorybean.StaticConnctionFactory"
+          factory-method="getConnection"></bean>
+
+    <!-- 创建对象的次数  singleton：只会创建一次简单对象  prototype:每一次都会创建新的对象 -->
+    <bean id="account" scope="prototype" class="priv.yangkuncheng.spring.scope.Account"></bean>
+
+    <!--    测试生命周期  设置 scope="singleton" 这种情况下 也需要在获取对象的同时，创建对象 lazy-init="true"-->
+    <bean id="product" scope="singleton" class="priv.yangkuncheng.spring.life.Product" lazy-init="true"></bean>
 </beans>
