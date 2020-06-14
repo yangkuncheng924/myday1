@@ -50,11 +50,12 @@
     <!--    <bean id="connFactory" class="priv.yangkuncheng.Spring.factorybean.ConnectionFactory"></bean>-->
     <!--    <bean id="coon" factory-bean="connFactory" factory-method="getConnection"/>-->
 
-    <bean id="coon" class="priv.yangkuncheng.spring.factorybean.StaticConnctionFactory" factory-method="getConnection"></bean>
+    <bean id="coon" class="priv.yangkuncheng.spring.factorybean.StaticConnctionFactory"
+          factory-method="getConnection"></bean>
 
-    <!-- 创建对象的此数 singleton 控制此数 -->
-    <bean id="account" scope="singleton" class="priv.yangkuncheng.spring.scope.Account"></bean>
+    <!-- 创建对象的次数  singleton：只会创建一次简单对象  prototype:每一次都会创建新的对象 -->
+    <bean id="account" scope="prototype" class="priv.yangkuncheng.spring.scope.Account"></bean>
 
-
-
+    <!--    测试生命周期  设置 scope="singleton" 这种情况下 也需要在获取对象的同时，创建对象 lazy-init="true"-->
+    <bean id="product" scope="singleton" class="priv.yangkuncheng.spring.life.Product" init-method="myInit" destroy-method="mydestroy"></bean>
 </beans>

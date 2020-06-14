@@ -91,10 +91,17 @@ public class TestSpring {
     //测试生命周期
     @Test
     public void test9() {
-        ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
+        ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
         Product product = (Product) ctx.getBean("product");
-        Product product2 = (Product) ctx.getBean("product");
-        System.out.println("produc = " + product );
-        System.out.println("product2 = " + product2);
+        ctx.close();
+    }
+
+    //测试配置文件参数化
+    @Test
+    public void test10() {
+        ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext1.xml");
+        Connection coon = (Connection) ctx.getBean("coon");
+        System.out.println("coon = " + coon);
+
     }
 }
