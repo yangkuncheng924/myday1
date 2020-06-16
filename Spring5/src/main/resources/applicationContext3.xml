@@ -12,4 +12,5 @@
     <bean id="myBeanPostProcessor" class="priv.yangkuncheng.beanpost.MyBeanPostProcessor"/>
 
 
+
 </beans>

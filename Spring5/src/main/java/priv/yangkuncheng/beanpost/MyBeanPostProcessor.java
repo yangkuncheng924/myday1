@@ -7,6 +7,7 @@ import org.springframework.lang.Nullable;
 
 public class MyBeanPostProcessor implements BeanPostProcessor {
 
+
     @Override
     public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeansException {
         return bean;
@@ -21,4 +22,6 @@ public class MyBeanPostProcessor implements BeanPostProcessor {
         }
         return bean;
     }
+
+
 }
