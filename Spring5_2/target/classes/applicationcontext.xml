@@ -9,11 +9,20 @@
 
     <bean id="orderService" class="priv.yangkuncheng.proxy.OrderServiceimpl"/>
 
-    <bean id="before" class="priv.yangkuncheng.dynamic.Before"/>
+    <!--    <bean id="before" class="priv.yangkuncheng.dynamic.Before"/>-->
+    <bean id="arround" class="priv.yangkuncheng.dynamic.Arround"/>
 
     <aop:config>
         <!--        所有的方法 都做为切入点，加入额外功能 login reguster-->
-        <aop:pointcut id="pc" expression="execution(* *(..))"/>
-        <aop:advisor advice-ref="before" pointcut-ref="pc"/>
+
+        <!--        方法切入点-->
+        <!--        <aop:pointcut id="pc" expression="execution(* priv.yangkuncheng.proxy.UserServicelmpl.login(..))"/>-->
+
+        <!--        类切入点-->
+        <!--        <aop:pointcut id="pc" expression="execution(* priv.yangkuncheng.proxy.UserServicelmpl.*(..))"/>-->
+
+        <!--        包切入点-->
+        <aop:pointcut id="pc" expression="execution(* *..UserServicelmpl.*(..))"/>
+        <aop:advisor advice-ref="arround" pointcut-ref="pc"/>
     </aop:config>
 </beans>

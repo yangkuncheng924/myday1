@@ -25,9 +25,9 @@ public class TextProxy {
     public void test2() {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
         UserService userService = (UserService) ctx.getBean("userService");
-
-        userService.register(new User());
         userService.login("xiaoyang", "123456");
+        userService.register(new User());
+
     }
 
     //测试orderservice动态代理
