@@ -22,7 +22,7 @@
         <!--        <aop:pointcut id="pc" expression="execution(* priv.yangkuncheng.proxy.UserServicelmpl.*(..))"/>-->
 
         <!--        包切入点-->
-        <aop:pointcut id="pc" expression="execution(* *..UserServicelmpl.*(..))"/>
+        <aop:pointcut id="pc" expression="execution(* login(..)) or execution(* register(..))"/>
         <aop:advisor advice-ref="arround" pointcut-ref="pc"/>
     </aop:config>
 </beans>
