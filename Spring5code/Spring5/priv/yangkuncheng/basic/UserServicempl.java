@@ -15,9 +15,10 @@ public class UserServicempl implements priv.yangkuncheng.basic.UserService {
     public void register(priv.yangkuncheng.basic.User user) {
         userDAO.save(user);
     }
+
     @Override
     public void login(String name, String password) {
-        userDAO.queryUserByNameAndPassword(name,password);
+        userDAO.queryUserByNameAndPassword(name, password);
     }
 
 

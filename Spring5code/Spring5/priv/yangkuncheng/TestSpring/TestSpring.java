@@ -22,7 +22,7 @@ public class TestSpring {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
         UserService userService = (UserService) ctx.getBean("userService");
 
-     //   userService.register(new User("suns", "123456"));
+        //   userService.register(new User("suns", "123456"));
         userService.login("xiaohei", "9999999999");
     }
 
@@ -118,12 +118,11 @@ public class TestSpring {
     //测试BeanPostProcessor
 
     public void test12() {
-    ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext3.xml");
-        Categroy c= (Categroy) ctx.getBean("c");
+        ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext3.xml");
+        Categroy c = (Categroy) ctx.getBean("c");
 
         System.out.println("c.getName() = " + c.getName());
     }
-
 
 
 }

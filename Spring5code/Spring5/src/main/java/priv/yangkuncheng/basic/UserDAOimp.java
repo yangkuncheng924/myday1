@@ -1,9 +1,9 @@
 package priv.yangkuncheng.basic;
 
-public class UserDAOimp implements UserDAO{
+public class UserDAOimp implements UserDAO {
     @Override
     public void save(User user) {
-        System.out.println("insert into user ="+ user);
+        System.out.println("insert into user =" + user);
     }
 
 

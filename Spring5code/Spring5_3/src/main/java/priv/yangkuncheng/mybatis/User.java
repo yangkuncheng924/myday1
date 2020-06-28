@@ -5,8 +5,8 @@ import java.io.Serializable;
 
 public class User implements Serializable {
     private Integer id;
-    private String  name;
-    private String  pawword;
+    private String name;
+    private String pawword;
 
     public User(Integer id, String name, String pawword) {
         this.id = id;

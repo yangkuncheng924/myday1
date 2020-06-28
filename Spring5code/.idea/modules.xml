@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spring5_3/Spring5_3.iml" filepath="$PROJECT_DIR$/Spring5_3/Spring5_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring5_4/Spring5_4.iml" filepath="$PROJECT_DIR$/Spring5_4/Spring5_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Spring5code.iml" filepath="$PROJECT_DIR$/.idea/Spring5code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring5code.iml" filepath="$PROJECT_DIR$/Spring5code.iml" />
     </modules>
   </component>
 </project>

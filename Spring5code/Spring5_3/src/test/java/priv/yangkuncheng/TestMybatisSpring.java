@@ -12,7 +12,7 @@ public class TestMybatisSpring {
         用于测试：Spring与MyBatis的整合
      */
     @Test
-    public void test1(){
+    public void test1() {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("/applicationContext.xml");
         UserDAO userDAO = (UserDAO) ctx.getBean("userDAO");
 

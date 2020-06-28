@@ -27,6 +27,6 @@ public class ProxyBeamPostProcessor implements BeanPostProcessor {
             }
         };
 
-        return Proxy.newProxyInstance(ProxyBeamPostProcessor.class.getClassLoader(),bean.getClass().getInterfaces(),handler);
+        return Proxy.newProxyInstance(ProxyBeamPostProcessor.class.getClassLoader(), bean.getClass().getInterfaces(), handler);
     }
 }

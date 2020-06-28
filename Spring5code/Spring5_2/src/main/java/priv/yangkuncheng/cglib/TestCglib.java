@@ -29,7 +29,7 @@ public class TestCglib {
 
         UserService userService1 = (UserService) enhancer.create();
 
-        userService1.login("yang","1234");
+        userService1.login("yang", "1234");
         userService1.register(new User());
 
     }

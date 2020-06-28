@@ -25,7 +25,7 @@ public class Product implements InitializingBean, DisposableBean {
         System.out.println("Product.destroy");
     }
 
-    public void mydestroy()throws Exception {
+    public void mydestroy() throws Exception {
         System.out.println("Product.destroy");
     }
 }

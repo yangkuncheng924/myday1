@@ -16,7 +16,7 @@ public class TestMyBatis {
 
         SqlSession session = sqlSessionFactory.openSession();
 
-        UserDAO  userDAO = session.getMapper(UserDAO.class);
+        UserDAO userDAO = session.getMapper(UserDAO.class);
 
         User user = new User();
         user.setName("ly");

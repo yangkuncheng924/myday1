@@ -5,19 +5,18 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
     <context:property-placeholder location="db.properties"/>
 
-<!--    &lt;!&ndash;    Spring创建MyDateConverter类型对象&ndash;&gt;-->
-<!--    <bean id="myDateConverter" class="priv.yangkuncheng.converter.MyDateConverter"/>-->
+    <!--    &lt;!&ndash;    Spring创建MyDateConverter类型对象&ndash;&gt;-->
+    <!--    <bean id="myDateConverter" class="priv.yangkuncheng.converter.MyDateConverter"/>-->
 
 
-
-<!--    &lt;!&ndash;    用于注册类型转换器&ndash;&gt;-->
-<!--    <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">-->
-<!--        <property name="converters">-->
-<!--        <set>-->
-<!--            <ref bean="myDateConverter"/>-->
-<!--        </set>-->
-<!--        </property>-->
-<!--    </bean>-->
+    <!--    &lt;!&ndash;    用于注册类型转换器&ndash;&gt;-->
+    <!--    <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">-->
+    <!--        <property name="converters">-->
+    <!--        <set>-->
+    <!--            <ref bean="myDateConverter"/>-->
+    <!--        </set>-->
+    <!--        </property>-->
+    <!--    </bean>-->
 
 
     <bean id="person1" class="priv.yangkuncheng.converter.Person">

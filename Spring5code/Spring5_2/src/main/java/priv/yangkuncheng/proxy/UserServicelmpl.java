@@ -10,7 +10,7 @@ public class UserServicelmpl implements UserService, ApplicationContextAware {
 
     @Override
     public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
-        this.ctx=applicationContext;
+        this.ctx = applicationContext;
     }
 
 

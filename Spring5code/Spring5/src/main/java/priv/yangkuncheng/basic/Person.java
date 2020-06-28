@@ -3,8 +3,8 @@ package priv.yangkuncheng.basic;
 import java.util.List;
 
 public class Person {
-    public Integer  id;
-    public String   name;
+    public Integer id;
+    public String name;
 
     @Override
     public String toString() {

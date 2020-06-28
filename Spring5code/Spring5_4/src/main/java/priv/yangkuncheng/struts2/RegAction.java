@@ -2,8 +2,9 @@ package priv.yangkuncheng.struts2;
 
 
 import com.opensymphony.xwork2.Action;
+import priv.yangkuncheng.struts2.userService;
 
-public  class RegAction implements Action {
+public class RegAction implements Action {
     private userService userService;
 
     public priv.yangkuncheng.struts2.userService getUserService() {
@@ -16,12 +17,10 @@ public  class RegAction implements Action {
 
     @Override
     public String execute() throws Exception {
-            userService.register();
+        userService.register();
 
         return Action.SUCCESS;
     }
-
-
 
 
 }
