@@ -6,9 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springboot1-helloworld" />
-        <module name="springbook03" />
         <module name="helloword02" />
+        <module name="springboot1-helloworld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

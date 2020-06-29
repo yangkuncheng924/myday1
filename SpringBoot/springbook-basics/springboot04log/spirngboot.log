@@ -1,0 +1,11 @@
+2020-06-29 14:06:46.127  INFO 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : Starting LogApplicationTests on DESKTOP-OEO8I3B with PID 1376 (started by 15371 in E:\IDEA代码\SpringBoot\springbook-basics\springboot04log)
+2020-06-29 14:06:46.128 DEBUG 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-29 14:06:46.129  INFO 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : No active profile set, falling back to default profiles: default
+2020-06-29 14:06:47.252  INFO 1376 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-29 14:06:47.527  INFO 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : Started LogApplicationTests in 1.666 seconds (JVM running for 3.143)
+2020-06-29 14:06:47.916 TRACE 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : 这是trace日志...
+2020-06-29 14:06:47.917 DEBUG 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : 这是dug日志
+2020-06-29 14:06:47.917  INFO 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : 这是info日志
+2020-06-29 14:06:47.917  WARN 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : 这是warn日志
+2020-06-29 14:06:47.917 ERROR 1376 --- [main] p.yangkuncheng.log.LogApplicationTests   : 这是error日志
+2020-06-29 14:06:47.931  INFO 1376 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
