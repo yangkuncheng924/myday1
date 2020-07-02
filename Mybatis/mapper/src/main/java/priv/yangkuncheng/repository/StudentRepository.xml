@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="priv.yangkuncheng.repository.StudenRepository">
+
+    <cache type="org.mybatis.caches.ehcache.EhcacheCache">
+        <property name="timeToIdleSeconds" value="3600"/>
+        <!-- 缓存自创建时间起至失效的时间间隔-->
+        <property name="timeToLiveSeconds" value="3600"/>
+        <!-- 缓存回收策略，LRU表示移除近期使用的最少对象     -->
+        <property name="memoryStoreEvictionPolicy" value="LRU"/>
+    </cache>
+
+    <resultMap id="studentMap" type="priv.yangkuncheng.entity.Student">
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <collection property="classes" ofType="priv.yangkuncheng.entity.Classes">
+            <id column="cid" property="id"/>
+            <result column="cname" property="name"/>
+        </collection>
+    </resultMap>
+    <select id="findById" resultType="priv.yangkuncheng.entity.Student">
+                select s.id,s.name,c.id as cid,c.name as cname from student s , classes c where s.id = #{id} and s.cid = c.id
+    </select>
+
+
+    <resultMap id="studentMapLazy" type="priv.yangkuncheng.entity.Student">
+        <id column="id" property="id"></id>
+        <result column="name" property="name"></result>
+        <association property="classes" javaType="priv.yangkuncheng.entity.Classes">
+            <id column="cid" property="id"></id>
+            <result column="cname" property="name"></result>
+        </association>
+    </resultMap>
+
+    <select id="findByIdLazy" resultType="priv.yangkuncheng.entity.Student">
+            select * from student where id = #{id}
+    </select>
+
+</mapper>

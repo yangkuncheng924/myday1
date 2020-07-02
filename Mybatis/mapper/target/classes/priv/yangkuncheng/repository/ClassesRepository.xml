@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="priv.yangkuncheng.repository.ClassesRepository">
+
+    <resultMap id="classesMap" type="priv.yangkuncheng.entity.Classes">
+        <id column="cid" property="id"></id>
+        <result column="cname" property="name"></result>
+        <collection property="students" ofType="priv.yangkuncheng.entity.Student">
+            <id column="id" property="id"></id>
+            <result column="name" property="name"></result>
+        </collection>
+    </resultMap>
+
+    <select id="findById" resultMap="classesMap">
+        select s.id,s.name,cid as cid,c.name as cname from student s, classes c where c.id = #{id} and s.cid = c.id
+    </select>
+
+    <select id="findByIdLazy" resultType="priv.yangkuncheng.entity.Classes">
+            select * from classes where id= #{id}
+    </select>
+
+</mapper>

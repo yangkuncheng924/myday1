@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="priv.yangkuncheng.repository.AccountRepository">
+    <insert id="save" parameterType="priv.yangkuncheng.entity.Account">
+            insert into t_account(username,password,age) values(#{username},#{password},#{age})
+    </insert>
+
+    <update id="update" parameterType="priv.yangkuncheng.entity.Account">
+            update t_account set username = #{username},password = #{password},age = #{age} where id = #{id}
+    </update>
+
+    <delete id="deleteById" parameterType="long">
+        delete from t_account where id = #{id}
+    </delete>
+
+    <select id="findAll" resultType="priv.yangkuncheng.entity.Account">
+        select * from t_account
+    </select>
+
+    <select id="findById" parameterType="long" resultType="priv.yangkuncheng.entity.Account">
+        select * from t_account where id = #{id}
+    </select>
+
+    <select id="findByName" parameterType="long" resultType="priv.yangkuncheng.entity.Account">
+        select * from t_account where username = #{uername}
+    </select>
+
+    <select id="findById2" parameterType="long" resultType="priv.yangkuncheng.entity.Account">
+        select * from t_account where id = #{id}
+    </select>
+
+    <select id="findByNameAndAge" resultType="priv.yangkuncheng.entity.Account">
+         select * from t_account where username = #{param1} and age = #{param2}
+    </select>
+
+    <select id="count" resultType="java.lang.Integer">
+        select count(id) from t_account
+    </select>
+
+    <select id="count2" resultType="java.lang.Integer">
+        select count(password) from t_account
+    </select>
+
+    <select id="findNameById" resultType="java.lang.String">
+        select username from t_account where id = #{id}
+    </select>
+
+
+</mapper>

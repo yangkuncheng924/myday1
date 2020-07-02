@@ -2,183 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95896c53-5fc3-4821-aebb-9df2fde34cd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/action/RegAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/applicationcontext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/applicationcontext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/priv.yangkuncheng.mapper/UserDAOMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/struts-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/webapp/reg.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring5_4/src/main/webapp/regOk.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__ognl_ognl_3_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_apache_struts_struts2_core_2_5_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0_alpha1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_2_0_0_alpha1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/spring5_annotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/injection/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/injection/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/injection/Userdao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/injection/UserdaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/lazy/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/life/Prodict.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/java/priv/yangkuncheng/scope/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5_annotation/src/test/java/priv/yangkuncheng/TestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/yangkuncheng/springboothelloword02/SpringBootHelloword02Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/priv/yangkuncheng/springboothelloword02/SpringBootHelloword02ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/springboot1-helloworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/src/main/java/priv/yangkuncheng/hello/Helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot01/src/main/java/priv/yangkuncheng/hello/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot/springboot1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Spring5code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Spring5_4_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Spring5_4_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_5_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/TestSpring/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/TestSpring/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/TestSpring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/TestSpring/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/UserServicempl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/basic/UserServicempl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/life/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/life/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/scope/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/priv/yangkuncheng/scope/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/src/main/java/priv/yangkuncheng/basic/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/src/main/java/priv/yangkuncheng/basic/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/src/main/java/priv/yangkuncheng/basic/UserDAOimp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/src/main/java/priv/yangkuncheng/basic/UserDAOimp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/src/main/resources/applicationContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5/target/classes/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5/target/classes/applicationContext2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/aspect/MyAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/priv/yangkuncheng/aspect/MyAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/aspect/TestApsectProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/aspect/TestApsectProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/aspect/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/aspect/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/cglib/TestCglib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/cglib/TestCglib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/cglib/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/cglib/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/dynamic/Arround.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/priv/yangkuncheng/dynamic/Arround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/dynamic/Before.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/priv/yangkuncheng/dynamic/Before.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/dynamic/Before1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/priv/yangkuncheng/dynamic/Before1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/ProxyBeamPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/ProxyBeamPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/factory/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/OrderServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/OrderServiceProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/OrderServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/OrderServiceimpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/UserServicelmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/java/priv/yangkuncheng/proxy/UserServicelmpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/resources/applicationcontext1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/resources/applicationcontext1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/src/test/java/priv/yangkuncheng/TextProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/priv/yangkuncheng/TextProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_2/target/classes/applicationcontext1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_2/target/classes/applicationcontext1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/mybatis/TestMyBatis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/mybatis/TestMyBatis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/mybatis/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/mybatis/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/service/UserServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/main/java/priv/yangkuncheng/service/UserServiceimpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/main/resources/UserDAOMappe.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/main/resources/UserDAOMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/src/test/java/priv/yangkuncheng/TestMybatisSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/src/test/java/priv/yangkuncheng/TestMybatisSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/UserDAOMappe.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_3/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/priv/yangkuncheng/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/priv/yangkuncheng/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/priv/yangkuncheng/mybatis/TestMyBatis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/priv/yangkuncheng/mybatis/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/classes/priv/yangkuncheng/mybatis/UserDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_3/target/test-classes/priv/yangkuncheng/TestMybatisSpring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/Spring5_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/Spring5_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/struts2/RegAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/struts2/RegAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/struts2/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/src/main/java/priv/yangkuncheng/struts2/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/applicationcontext-action.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring5_annotation/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/src/main/resources/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/applicationcontext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/priv/yangkuncheng/struts2/RegAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/priv/yangkuncheng/struts2/RegAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/priv/yangkuncheng/struts2/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/priv/yangkuncheng/struts2/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/classes/struts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/Spring5_4-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/classes/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/classes/applicationcontext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/classes/priv/yangkuncheng/struts2/RegAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/classes/priv/yangkuncheng/struts2/RegAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/classes/priv/yangkuncheng/struts2/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/classes/priv/yangkuncheng/struts2/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring5_4/target/classes/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring5_4/target/classes/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +105,7 @@
       <updated>1593338998772</updated>
       <workItem from="1593339005935" duration="188000" />
       <workItem from="1593339223389" duration="29000" />
+      <workItem from="1593527030074" duration="16000" />
     </task>
     <servers />
   </component>
