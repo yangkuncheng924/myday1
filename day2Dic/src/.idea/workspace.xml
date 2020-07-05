@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b94f3de0-5912-4c04-84b0-3a8621e344c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/javaCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSM/.idea/SSM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSM/ssmbuild/ssmbuild.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/.idea/artifacts/springmvc_05_json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/.idea/artifacts/springmvc_06_Ajax_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/.idea/artifacts/springmvc_06_ajax.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/RestFulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/springmvc-05-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-05-json/web/jsontest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/springmvc-06-Ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/src/main/java/pirv/yangkuncheng/controller/AjaxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-06-Ajax/web/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/priv/yangkuncheng/controller/ControllerTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/priv/yangkuncheng/controller/ControllerTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/ControllerTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/ControllerTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/target/classes/priv/yangkuncheng/controller/ControllerTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/target/classes/priv/yangkuncheng/controller/ControllerTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/target/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringMVC/springmvc-04-controller/target/classes/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2_NIO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/BilckingTest3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/BilckingTest3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/BlockingTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/BlockingTest3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/BuffTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/ChannelTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/day2_NIO/nictest/PipeTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/BilckingTest3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/BilckingTest3_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/BlockingTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/BlockingTest3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/BuffTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/ChannelTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nictest/PipeTest4.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eFAlwCWjgvasRpAUQkaPAuxknd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day2advanced" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaCode\day2Dic\src\src\main\java\priv.yangkuncheng" />
+      <recent name="E:\javaCode\day2Dic\src\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b94f3de0-5912-4c04-84b0-3a8621e344c4" name="Default Changelist" comment="" />
+      <created>1593907121399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593907121399</updated>
+      <workItem from="1593907122706" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="362" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593907160254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="362" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593907160254" />
+    <state x="863" y="439" key="FileChooserDialogImpl" timestamp="1593907384634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="863" y="439" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593907384634" />
+    <state x="782" y="575" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593907214485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="575" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1593907214485" />
+  </component>
+</project>

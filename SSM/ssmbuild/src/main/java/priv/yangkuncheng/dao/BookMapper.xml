@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="priv.yangkuncheng.dao.BookMapper">
+    <insert id="addBook">
+                insert into ssmbuid.books (bookname,bookcounts,detail)
+                value(#{bookname},#{bookcounts},#{detail});
+    </insert>
+
+    <delete id="deleteBookId">
+         delete from ssmbuid.books where bookid = #{bookid}
+    </delete>
+
+    <update id="updateBook">
+                 update  ssmbuid.books
+        set bookname = #{bookname},bookcounts=#{bookcounts},detail=#{detail}
+        where bookid=#{bookid};
+    </update>
+
+    <select id="selectBookId" resultType="priv.yangkuncheng.pojo.Books">
+                select * from ssmbuid.books
+        where bookid = #{bookid}
+    </select>
+
+    <select id="queryAllBook" resultType="priv.yangkuncheng.pojo.Books">
+                   select * from ssmbuid.books
+        where bookid = #{bookid}
+    </select>
+
+</mapper>

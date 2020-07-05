@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springmvc-04-controller" />
-        <module name="springmvc-02-hellomvc" />
         <module name="springmvc-01-serlvet" />
+        <module name="springmvc-06-Ajax" />
+        <module name="springmvc-05-json" />
+        <module name="springmvc-02-hellomvc" />
         <module name="springmvc-03-annotation" />
+        <module name="springmvc-04-controller" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmc-06-ajax" target="14" />
+    </bytecodeTargetLevel>
   </component>
 </project>

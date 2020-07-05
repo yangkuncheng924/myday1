@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springbook-basics" />
+        <module name="springbook03" />
         <module name="springboot05restfulcrud" />
         <module name="helloword02" />
-        <module name="springbook03" />
         <module name="log" />
+        <module name="springboot-06-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloword02" target="14" />
       <module name="log" target="14" />
+      <module name="springbook-basics" target="1.5" />
       <module name="springbook03" target="14" />
+      <module name="springboot-06-web" target="1.8" />
       <module name="springboot05restfulcrud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +28,7 @@
       <module name="helloword02" options="-parameters" />
       <module name="log" options="-parameters" />
       <module name="springbook03" options="-parameters" />
+      <module name="springboot-06-web" options="-parameters" />
       <module name="springboot05restfulcrud" options="-parameters" />
     </option>
   </component>

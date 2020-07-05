@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot02/helloword02.iml" filepath="$PROJECT_DIR$/springboot02/helloword02.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot04log/log.iml" filepath="$PROJECT_DIR$/springboot04log/log.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/springbook-basics.iml" filepath="$PROJECT_DIR$/.idea/springbook-basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbook03config/springbook03.iml" filepath="$PROJECT_DIR$/springbook03config/springbook03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-06-web/springboot-06-web.iml" filepath="$PROJECT_DIR$/springboot-06-web/springboot-06-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot05restfulcrud/springboot05restfulcrud.iml" filepath="$PROJECT_DIR$/springboot05restfulcrud/springboot05restfulcrud.iml" />
     </modules>
   </component>

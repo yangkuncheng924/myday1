@@ -11,7 +11,7 @@ import java.util.function.IntToDoubleFunction;
 @Controller
 public class ControllerTest2 {
 
-    @RequestMapping("/ttt")
+    @RequestMapping("/test")
     public String test1(Model model) {
         model.addAttribute("msg", "ControllerTest2");
         return "hello";

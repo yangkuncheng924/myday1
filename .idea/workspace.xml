@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebef5f7b-a139-41b0-ba57-322b1fe6cd97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/artifacts/springmvc_05_json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/RestFulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/springmvc-05-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/src/main/java/priv/yangkuncheng/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVC/springmvc-05-json/web/jsontest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/priv/yangkuncheng/controller/ControllerTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/priv/yangkuncheng/controller/ControllerTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/out/artifacts/springmvc_04_controller_war_exploded/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/ControllerTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/src/main/java/priv/yangkuncheng/controller/ControllerTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/target/classes/priv/yangkuncheng/controller/ControllerTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/target/classes/priv/yangkuncheng/controller/ControllerTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/target/classes/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/springmvc-04-controller/target/classes/springmvc-servlet.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eDgsW92Dv1O2om01ExLAWtrpuF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebef5f7b-a139-41b0-ba57-322b1fe6cd97" name="Default Changelist" comment="" />
+      <created>1593861784871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593861784871</updated>
+      <workItem from="1593861786037" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="361" key="new project wizard" timestamp="1593861802085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="361" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593861802085" />
+  </component>
+</project>
